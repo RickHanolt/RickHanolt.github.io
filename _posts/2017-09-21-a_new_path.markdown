@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "A New Path"
+date:   2017-09-22 01:21:31 +0000
+---
+
+
+From the time I got my first TI-83 calculator, I knew I liked coding. The logic of it all appealled to me in a way that kept my interest long after I would have typically been bored by other hobbies and pursuits. There is a desire, inherent in all people, to create. There is a very real sense of pride and achievement that accompanies building something out of nothing. For a time, I assumed that it was reserved for others... for people with a different type of creativity and a different set of skills than those which I possessed. 
+
+Real programming, not just toying with a calculator during geometry class, always seemed so unapproachable to me. It wasn't until a started seeing countless options for online learning and coding bootcamps that I started to consider it as an achievable future, an opportunity for growth and education, and the beginning of a new path that would send me in a direction much different from any I had previously considered. 
+
+As I begin my journey to learn to code, I am excited for the possibilites ahead of me and I will update my progress on this blog as I advance through the Flatiron School's program. I am excited to share my experiences and I look forward to what is to come.
